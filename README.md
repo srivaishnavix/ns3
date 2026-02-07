@@ -25,7 +25,9 @@ So here are a list of ways to run ns3 on a System
 - Macos
 
 #Prerequisites of ns3 
--Python (3.11 or later versions)
+- Python (3.11 or later versions)
+- 
+
 
 ## MacOS
 
